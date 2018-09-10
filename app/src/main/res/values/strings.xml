@@ -1,0 +1,117 @@
+<resources>
+
+    <string name="app_name">Inventory App</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="editor_activity_title_new_product">Add product</string>
+
+    <string name="editor_activity_title_edit_product">Edit product</string>
+
+    <string name="delete_all_data">Delete all data</string>
+
+    <string name="insert_dummy_data">Insert dummy data</string>
+
+    <string name="empty_view_title_text">No products, no money, no funny</string>
+    
+    <string name="empty_view_subtitle_text">Get started by adding an item</string>
+
+    <string name="pcs_unit">pcs</string>
+
+    <string name="example_quantity">9</string>
+
+    <string name="in_stock">In stock:</string>
+
+    <string name="example_model">DMC-370ZX</string>
+
+    <string name="euro_currency_sign">€</string>
+
+    <string name="example_price">199,99</string>
+
+    <string name="example_name_of_item">Sony</string>
+
+    <string name="action_delete">Delete</string>
+
+    <string name="action_save">Save</string>
+
+    <string name="product_overview">Overview</string>
+
+    <string name="hint_product_name">Name</string>
+
+    <string name="hint_model">Model</string>
+
+    <string name="category_picture">Picture</string>
+
+    <string name="product_price_hint">Price</string>
+
+    <string name="currency_symbol">€</string>
+
+    <string name="product_photo">Photo</string>
+
+    <string name="supplier_info">Supplier Info</string>
+
+    <string name="hint_supplier_name">Supplier Name</string>
+
+    <string name="hint_supplier_email">Supplier email</string>
+
+    <string name="hint_product_quantity">Product quantity</string>
+
+    <string name="category_quantity">Quantity</string>
+
+    <string name="unit_product_quantity">pcs</string>
+
+    <string name="reject_product_button">Reject product</string>
+
+    <string name="add_product_button">Add product</string>
+
+    <string name="add_photo_hint_text">Tap to add a photo</string>
+
+    <string name="edit_photo_hint_text">Tap to edit a photo</string>
+
+    <string name="editor_delete_product_successful">Product deleted</string>
+
+    <string name="editor_delete_product_failed">Error with deleting product</string>
+
+    <string name="delete_dialog_msg">Delete this product?</string>
+
+    <string name="delete">Delete</string>
+
+    <string name="cancel">Cancel</string>
+
+    <string name="unsaved_changes_dialog_msg">Discard your changes and quit editing?</string>
+
+    <string name="discard">Discard</string>
+
+    <string name="keep_editing">Keep Editing</string>
+
+    <string name="validation_msg_product_name">Product name is required</string>
+
+    <string name="validation_msg_product_quantity">Quantity is required</string>
+
+    <string name="validation_msg_product_price">Price is required</string>
+
+    <string name="validation_msg_product_image">Photo of product is required</string>
+
+    <string name="error_msg_stock_update">Issue with upload value of quantity</string>
+
+    <string name="buy_msg_confirm">Item has been sold</string>
+
+    <string name="no_product_in_stock">No available product in stock</string>
+
+    <string name="editor_insert_product_successful">Item saved</string>
+
+    <string name="editor_insert_product_failed">Error with saving item</string>
+
+    <string name="editor_update_product_successful">Item updated</string>
+
+    <string name="editor_update_product_failed">Error with updating item</string>
+
+    <string name="intent_type">image/*</string>
+
+    <string name="select_image">Select image</string>
+
+    <string name="toast_out_of_stock_msg">Out of stock</string>
+
+    <string name="order">Order</string>
+
+</resources>
